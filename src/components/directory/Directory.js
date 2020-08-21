@@ -13,7 +13,7 @@ class Directory extends React.Component {
           imageUrl:
             "https://cdn.shopify.com/s/files/1/0261/3159/5346/products/SUPREME2SPROSkate_6cbca97c-2c83-44a2-94e6-28eea75ef57a_1024x1024.jpg?v=1580497890",
           id: 1,
-          linkUrl: "Ice Skates",
+          linkUrl: "ice-skates",
         },
         {
           title: "Hockey Helmets",
